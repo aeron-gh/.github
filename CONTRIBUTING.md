@@ -25,4 +25,4 @@ fix: handle an empty list
 docs: fix the broken setup link
 ```
 
-I squash-merge pull requests, so the title becomes the commit on `main`.
+I squash-merge pull requests, so the title becomes the commit on the default branch.

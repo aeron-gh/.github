@@ -4,15 +4,15 @@ This policy covers my personal repositories on [@aeron-gh](https://github.com/ae
 If a repository has its own `SECURITY.md`, that one applies there. Projects in
 [aeron playground](https://github.com/aeron-playground) follow
 [their own policy](https://github.com/aeron-playground/.github/blob/main/SECURITY.md).
+For a fork of another project, report to the original project.
 
 ## Report a vulnerability
 
 Report privately. Don't open a public issue, pull request or discussion.
 
-- **Preferred:** open a private security advisory. Go to the repository's **Security** tab and
-  click **Report a vulnerability**.
-- **Or email:** [agab0323@gmail.com](mailto:agab0323@gmail.com), for example when a repository
-  doesn't show that button.
+- **Email:** [agab0323@gmail.com](mailto:agab0323@gmail.com). This works for every repository.
+- **Or** open a private security advisory, if the repository shows a **Report a vulnerability**
+  button on its security tab.
 
 Please include:
 
